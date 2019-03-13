@@ -3,6 +3,8 @@ package dataStructures.linkedlist;
 class Link {
 	public int data;
 	public Link next;
+	
+	hello
 
 	public Link(int data) {
 		this.data = data;
